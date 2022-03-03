@@ -9,3 +9,8 @@ occuring between containers on a pod.
 
 
 Multi-node app patterns:
+Co-ordinate communication between multiple nodes.
+
+*** Advice ***
+
+Modular containers make it easier to build co-ordinated multi-node distributed applications.
